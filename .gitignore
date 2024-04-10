@@ -9,6 +9,7 @@
 
 # CMake build directory
 CMakeFiles/
+cmake-build-debug/
 build/
 
 # CMake generated files
